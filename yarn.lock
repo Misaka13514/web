@@ -498,21 +498,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@element-plus/icons-vue@npm:^2.0.6":
-  version: 2.1.0
-  resolution: "@element-plus/icons-vue@npm:2.1.0"
+"@element-plus/icons-vue@npm:^2.3.2":
+  version: 2.3.2
+  resolution: "@element-plus/icons-vue@npm:2.3.2"
   peerDependencies:
     vue: ^3.2.0
-  checksum: 10c0/307f76aee00788b117ce7c9f9d0738c7f15e8e69443c7267c4dddef3931ae6476e4590e9d0fd794a59c4285f9cb36359ddb9bbad72552462b2cdcb43c5e31954
-  languageName: node
-  linkType: hard
-
-"@element-plus/icons-vue@npm:^2.3.1":
-  version: 2.3.1
-  resolution: "@element-plus/icons-vue@npm:2.3.1"
-  peerDependencies:
-    vue: ^3.2.0
-  checksum: 10c0/eaa00290d094fd8554027e2170cef002b6fb5f24e51f0e97764a32f0efc0fb190a9341f28292d06c3caecf1493f3d539c53ca1958d62392ee3e2a8085d2e726b
+  checksum: 10c0/c3a1a8a09131a7f8dd348ace661f2630baf701baf2bf9cc3ab65753a417459131bbff9044990ead968410897ecfda541d10951dc05fb085a5188c023587a5e7d
   languageName: node
   linkType: hard
 
@@ -742,10 +733,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/fontawesome-free@npm:^6.5.2":
-  version: 6.5.2
-  resolution: "@fortawesome/fontawesome-free@npm:6.5.2"
-  checksum: 10c0/932a8119376eab45da6c0702e955dcea55b916bbd7e118a365a8b3356a6322e725536f28f78e039bd47f4e1650b69bf9a85c2e40d0fdd69f9f0c138a5ef07e67
+"@fortawesome/fontawesome-free@npm:^7.0.0":
+  version: 7.1.0
+  resolution: "@fortawesome/fontawesome-free@npm:7.1.0"
+  checksum: 10c0/3bcaf2c18f3b2ece0fb5640681f13051cb787d686ab444437b3605ba3dca9dce4c7c1f844d94b7ad011482ac20b2b387f3a4c33c2739b50c4425fe529ab7b050
   languageName: node
   linkType: hard
 
@@ -775,20 +766,20 @@ __metadata:
   linkType: hard
 
 "@iconify-json/ep@npm:^1.1.15":
-  version: 1.1.15
-  resolution: "@iconify-json/ep@npm:1.1.15"
+  version: 1.2.3
+  resolution: "@iconify-json/ep@npm:1.2.3"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/91741bb1d367950708089d0dbbacc57541d52ba0480f176085e05f49e3d643097c76f302f4b335c6b3fbc70cb0ca4469a241f61c52e19be12b2aee1df2450ce6
+  checksum: 10c0/354612a7ba8eba53e06e0c11118c6eb108cf68927bfcd0395d15b57817576bbb8094dc78ee5a876bba050821b16b1c2447007aa2a34724c25d4703877c00bd4e
   languageName: node
   linkType: hard
 
 "@iconify-json/fa6-solid@npm:^1.1.21":
-  version: 1.1.21
-  resolution: "@iconify-json/fa6-solid@npm:1.1.21"
+  version: 1.2.4
+  resolution: "@iconify-json/fa6-solid@npm:1.2.4"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/c9475ff895831980c3eae639037d09f704d46abefb8b618b7784630a8ae431f744a22c9527b7a40122c5789b8191751fcd3f30c92962c68f7c125858754c166b
+  checksum: 10c0/367f45b87f83344dde8ed520e4aa123b94b6499fcdcf50ffe3b7b6495c04f2d3bb1b3ab9f6465bed1ba58dd65a0f5822808f7961a24d3eee210101ac2aec9eb3
   languageName: node
   linkType: hard
 
@@ -814,14 +805,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/vue@npm:^4.1.2":
-  version: 4.1.2
-  resolution: "@iconify/vue@npm:4.1.2"
+"@iconify/vue@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "@iconify/vue@npm:5.0.0"
   dependencies:
     "@iconify/types": "npm:^2.0.0"
   peerDependencies:
     vue: ">=3"
-  checksum: 10c0/53ef92a1f02230fe3a4c1d178fff29f14c3392707e74ccf8611cdc1c9f0193d5c26c4cd95ea05e358baf4842f585fad1b809601319e0e2ce5200586f94ba8f70
+  checksum: 10c0/363133a77bf697c4cebda2af776ca6fce312d15742a5ed6a2114d79d032814b15f04bcc1cec51cee31256f1a62dc64b0dbbcfe4e341692cb2dca64f0561fa1c0
   languageName: node
   linkType: hard
 
@@ -1688,19 +1679,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash-es@npm:^4.17.6":
-  version: 4.17.7
-  resolution: "@types/lodash-es@npm:4.17.7"
+"@types/lodash-es@npm:^4.17.12":
+  version: 4.17.12
+  resolution: "@types/lodash-es@npm:4.17.12"
   dependencies:
     "@types/lodash": "npm:*"
-  checksum: 10c0/c3ecfcff9f6864efa1a5f0d3ec457db17536f05a3a7a1a3f1fb1052042ed3e9747b12cd1eddab14fbbe98aef7aec131aaaf71c2f4611725cb15dd42b9651a64d
+  checksum: 10c0/5d12d2cede07f07ab067541371ed1b838a33edb3c35cb81b73284e93c6fd0c4bbeaefee984e69294bffb53f62d7272c5d679fdba8e595ff71e11d00f2601dde0
   languageName: node
   linkType: hard
 
-"@types/lodash@npm:*, @types/lodash@npm:^4.14.182":
+"@types/lodash@npm:*":
   version: 4.14.195
   resolution: "@types/lodash@npm:4.14.195"
   checksum: 10c0/6d733276df592614a0943a0053056140398b3c263cdf2557d4301b3a47b07ff561926cb9339a4725acbc7d8766f91ded218df11e0a4288cee369eafb5141d94d
+  languageName: node
+  linkType: hard
+
+"@types/lodash@npm:^4.17.20":
+  version: 4.17.21
+  resolution: "@types/lodash@npm:4.17.21"
+  checksum: 10c0/73cb006e047d8871e9d63f3a165543bf16c44a5b6fe3f9f6299e37cb8d67a7b1d55ac730959a81f9def510fd07232ff7e30e05413e5d5a12793baad84ebe36c3
   languageName: node
   linkType: hard
 
@@ -3144,10 +3142,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dayjs@npm:^1.11.3":
-  version: 1.11.9
-  resolution: "dayjs@npm:1.11.9"
-  checksum: 10c0/1697892de0f4107083ec72451ba86c947df61d9a67f8c52da991c5f8e347781baccec5c4c42e81a99e63cf603389ed324723cd77ad1b6fbd04f0f34433334979
+"dayjs@npm:^1.11.19":
+  version: 1.11.19
+  resolution: "dayjs@npm:1.11.19"
+  checksum: 10c0/7d8a6074a343f821f81ea284d700bd34ea6c7abbe8d93bce7aba818948957c1b7f56131702e5e890a5622cdfc05dcebe8aed0b8313bdc6838a594d7846b0b000
   languageName: node
   linkType: hard
 
@@ -3340,53 +3338,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"element-plus@npm:^2.2.26":
-  version: 2.3.7
-  resolution: "element-plus@npm:2.3.7"
+"element-plus@npm:^2.2.26, element-plus@npm:^2.7.1":
+  version: 2.11.9
+  resolution: "element-plus@npm:2.11.9"
   dependencies:
     "@ctrl/tinycolor": "npm:^3.4.1"
-    "@element-plus/icons-vue": "npm:^2.0.6"
+    "@element-plus/icons-vue": "npm:^2.3.2"
     "@floating-ui/dom": "npm:^1.0.1"
     "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7"
-    "@types/lodash": "npm:^4.14.182"
-    "@types/lodash-es": "npm:^4.17.6"
+    "@types/lodash": "npm:^4.17.20"
+    "@types/lodash-es": "npm:^4.17.12"
     "@vueuse/core": "npm:^9.1.0"
     async-validator: "npm:^4.2.5"
-    dayjs: "npm:^1.11.3"
-    escape-html: "npm:^1.0.3"
+    dayjs: "npm:^1.11.19"
     lodash: "npm:^4.17.21"
     lodash-es: "npm:^4.17.21"
-    lodash-unified: "npm:^1.0.2"
+    lodash-unified: "npm:^1.0.3"
     memoize-one: "npm:^6.0.0"
     normalize-wheel-es: "npm:^1.2.0"
   peerDependencies:
     vue: ^3.2.0
-  checksum: 10c0/d4fb2e9dc4e85332086a4c3b451d52432d5323ed48061dc386e39769aed3c454e68befea58900b56d1dd0a1cee2149a44db186391824951c6d20815ea7f66c04
-  languageName: node
-  linkType: hard
-
-"element-plus@npm:^2.7.1":
-  version: 2.7.1
-  resolution: "element-plus@npm:2.7.1"
-  dependencies:
-    "@ctrl/tinycolor": "npm:^3.4.1"
-    "@element-plus/icons-vue": "npm:^2.3.1"
-    "@floating-ui/dom": "npm:^1.0.1"
-    "@popperjs/core": "npm:@sxzz/popperjs-es@^2.11.7"
-    "@types/lodash": "npm:^4.14.182"
-    "@types/lodash-es": "npm:^4.17.6"
-    "@vueuse/core": "npm:^9.1.0"
-    async-validator: "npm:^4.2.5"
-    dayjs: "npm:^1.11.3"
-    escape-html: "npm:^1.0.3"
-    lodash: "npm:^4.17.21"
-    lodash-es: "npm:^4.17.21"
-    lodash-unified: "npm:^1.0.2"
-    memoize-one: "npm:^6.0.0"
-    normalize-wheel-es: "npm:^1.2.0"
-  peerDependencies:
-    vue: ^3.2.0
-  checksum: 10c0/f2e3a3a787fe2bd335c24eb666f816dcf53ebbb78a9940d7f6ada86622b8b79c03eb1a4d534da202adc51e6ce4272b86dad47cbf36a272c7ff3e3d93b43a882d
+  checksum: 10c0/dfd98c2dcb0e5148b858424e5c977bbd3f3a8c4a8928a1ca2734e8b8b509955f3578c2c886ca08f44171a183c846e981787b69326dfaac0789b50a2b9256fc4e
   languageName: node
   linkType: hard
 
@@ -3567,7 +3539,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"escape-html@npm:^1.0.3, escape-html@npm:~1.0.3":
+"escape-html@npm:~1.0.3":
   version: 1.0.3
   resolution: "escape-html@npm:1.0.3"
   checksum: 10c0/524c739d776b36c3d29fa08a22e03e8824e3b2fd57500e5e44ecf3cc4707c34c60f9ca0781c0e33d191f2991161504c295e98f68c78fe7baa6e57081ec6ac0a3
@@ -5032,7 +5004,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash-unified@npm:^1.0.2":
+"lodash-unified@npm:^1.0.3":
   version: 1.0.3
   resolution: "lodash-unified@npm:1.0.3"
   peerDependencies:
@@ -5622,10 +5594,10 @@ __metadata:
   dependencies:
     "@andreekeberg/imagedata": "npm:^1.0.2"
     "@callmebill/lxgw-wenkai-web": "npm:^1.521.0"
-    "@fortawesome/fontawesome-free": "npm:^6.5.2"
+    "@fortawesome/fontawesome-free": "npm:^7.0.0"
     "@iconify-json/ep": "npm:^1.1.15"
     "@iconify-json/fa6-solid": "npm:^1.1.21"
-    "@iconify/vue": "npm:^4.1.2"
+    "@iconify/vue": "npm:^5.0.0"
     "@types/fs-extra": "npm:^11.0.4"
     "@types/gtag.js": "npm:^0.0.19"
     "@types/katex": "npm:^0"
