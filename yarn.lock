@@ -4379,10 +4379,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"harfbuzzjs@npm:^0.3.5":
-  version: 0.3.5
-  resolution: "harfbuzzjs@npm:0.3.5"
-  checksum: 10c0/ef5bd5cce78ac7df7f9a96f620dfaa2cb1ee75f89985a31dfff2febab008350def562a2ea7c370984a18a0557c67b0828e44e1144838ab83cdbe6aceed5da606
+"harfbuzzjs@npm:^0.4.0":
+  version: 0.4.13
+  resolution: "harfbuzzjs@npm:0.4.13"
+  checksum: 10c0/20fc1e717b9177472bf244b5fd0655fa41cb3afb9e22673a5434e61061f1df48ec94a5d6864f1d2b61da7cb44e2e1fb58cf6dca92d9bc2a55634f53b5adc510f
   languageName: node
   linkType: hard
 
@@ -6817,14 +6817,14 @@ __metadata:
   linkType: hard
 
 "subset-font@npm:^2.3.0":
-  version: 2.3.0
-  resolution: "subset-font@npm:2.3.0"
+  version: 2.4.0
+  resolution: "subset-font@npm:2.4.0"
   dependencies:
     fontverter: "npm:^2.0.0"
-    harfbuzzjs: "npm:^0.3.5"
+    harfbuzzjs: "npm:^0.4.0"
     lodash: "npm:^4.17.21"
     p-limit: "npm:^3.1.0"
-  checksum: 10c0/f311127602909087c3c4932d9ba81c9de45ca8e0669c9ad0c6de67bf354e90bcef39df3083a1b13e5214722f503dd5721c287d2237dc11223f9818a81d449436
+  checksum: 10c0/0bd61ebd97faefcc2c675981e49d81f10b7b9dc4a412747886017e0e12c88bc97609e8a720e6b9e73957b4c7cf6290236158d08249af9a9c31bff127d2b51325
   languageName: node
   linkType: hard
 
